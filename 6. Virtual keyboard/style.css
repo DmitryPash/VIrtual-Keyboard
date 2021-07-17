@@ -52,9 +52,11 @@ body{
 }
 
 #input {
-  border: 1px solid black;
-  height: 200px;
-  width: 946px;
+
+  margin-top: 20px;
+  /* border: 1px solid black;
+  height: 100px;
+  width: 946px; */
 }
 
 #key12 {
